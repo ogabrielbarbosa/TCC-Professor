@@ -1,0 +1,54 @@
+.form-student label{
+    margin-bottom: 0.5em;
+    font-size: 1.4em;
+}
+
+.form-student input{
+    margin-bottom: 1em;
+    padding: 0.7em;
+    border: none;
+    border-radius: 5px;
+    max-width: 200px;
+}
+
+.form-student input{
+    border: 1px solid #00488B;
+}
+
+.form-student input:hover{
+    box-shadow: 1px 1px 3px #00488b71;
+}
+
+.form-student button{
+    max-width: 200px;
+}
+
+input{
+    margin-bottom: 15px;
+    height: 35px;
+    border: 0;
+    border-radius: 7px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgb(240, 240, 240);
+}
+
+label{
+    margin-bottom: 0.5em;
+    font-size: 1.4em;
+}
+
+form textarea{
+    height: 105px;
+    max-width: 350px;
+    resize: none;
+}
+
+input[type="radio"]{
+    margin: 15px 1;
+}
+
+.status a{
+    padding-left: 0.5em;
+    font-size: 1.3em;
+}
