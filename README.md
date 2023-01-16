@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Mockup - TCC - Professor" src="[https://raw.githubusercontent.com/ogabrielbarbosa/TCC-Professor/main/src/assets/TCC%20-%20Orientador.png](https://raw.githubusercontent.com/ogabrielbarbosa/TCC-Professor/main/src/assets/TCC%20-%20Professor.png)" width="100%">
+  <img alt="Mockup - TCC - Professor" src="https://raw.githubusercontent.com/ogabrielbarbosa/TCC-Professor/main/src/assets/TCC%20-%20Professor.png" width="100%">
 </p>
 
 <h1 align="center">TCC - Professor</h1>
