@@ -45,7 +45,7 @@ O app estará disponível para acesso em seu navegador em <http://localhost:3000
 
 ## 💻 Projeto
 
-Para o desenvolvimento desse projeto foi utilizado a framework ReactJS. O projeto tem como principal função de auxiliar e substituir o livro de ocorrências dentro de uma escola, para melhor agilidade e transparência na aplicação de uma ocorrência/advetência em um aluno. Junto com o complemento do módulo do [Orientador.](http://tccorientador.gabarbosa.com/)
+Projeto desenvolvido em 2021 como TCC e estágio para minha antiga escola [Colégio Univap - Centro.](https://www.univap.br/colegios/) O projeto tem como principal função de auxiliar e substituir o livro de ocorrências dentro de uma escola, para melhor agilidade e transparência na aplicação de uma ocorrência/advetência em um aluno. Junto com o complemento do módulo do [Orientador.](http://tccorientador.gabarbosa.com/)
 
 ## 📝 Licença
 
